@@ -219,11 +219,11 @@ footer{
       padding-right: 2%;
     }
     .blog-image {
-      width: 49%;
+      width: 50%;
     }
     .blog-text {
-      width: 49%;
-      padding-top: 5px;
+      width: 50%;
+      padding-top: 10px;
     }
     .sidebar {
       width: 100%;
